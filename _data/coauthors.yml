@@ -5,10 +5,13 @@
 "Nguyen":
   - firstname: ["Dang"]
     url: https://hsgser.github.io/
+  - firstname: [ "Huy" ]
+      url: https://huynm99.github.io/
+  - firstname: [ "Tan" ]
+      url: https://tanmnguyen89.github.io/
+  - firstname: [ "Son" ]
+      url: https://sonpeter.github.io/
 
-"Nguyen":
-  - firstname: ["Huy"]
-    url: https://huynm99.github.io/
 
 "Bui":
   - firstname: ["Hung"]
@@ -18,12 +21,17 @@
   - firstname: ["Dinh"]
     url: http://dinhphung.ml/
 
+
+
 "Le":
   - firstname: ["Trung"]
     url: https://scholar.google.com/citations?user=gysdMxwAAAAJ&hl=en
 
-"Nguyen":
-  - firstname: ["Tan"]
-    url: https://tanmnguyen89.github.io/
+
+"Pham":
+  - firstname: [ "Tung" ]
+      url: https://scholar.google.com/citations?user=KcUuEKsAAAAJ&hl=en
+
+
 
 
