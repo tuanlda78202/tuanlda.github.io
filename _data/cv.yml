@@ -21,14 +21,14 @@
       year: 2020
       description:
         - Excellence Degree (Top 1%)
-        - Thesis: Distributional Sliced Wasserstein and Applications to Generative Modeling
+        - Thesis "Distributional Sliced Wasserstein and Applications to Generative Modeling"
 
 - title: Experience
   type: time_table
   contents:
     - title: Research Intern
       institution: AT&T Labs
-      year: 2022
+      year: Summer 2022
 
     - title: AI Research Resident
       institution: VinAI Research
@@ -50,5 +50,5 @@
 - title: Professional Services
   type: list
   contents:
-    - <u>Journal Reviewer:</u> JMLR.
-    - <u>Conference Reviewer/ Program Committee:</u> NeurIPS (2021,2022), ICML (2021,2022), ICLR (2022,2023), AISTATS (2022,2023), AAAI (2023).
+    - <b>Journal Reviewer:</b> JMLR.
+    - <b>Conference Reviewer/ Program Committee:</b> NeurIPS (2021,2022), ICML (2021,2022), ICLR (2022,2023), AISTATS (2022,2023), AAAI (2023).
