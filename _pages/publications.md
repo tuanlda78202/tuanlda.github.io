@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications [[Full List]](https://khainb.github.io/publications/)
+title: Publications 
 description: (*) denotes equal contribution
 years: [2022,2021]
 nav: true
