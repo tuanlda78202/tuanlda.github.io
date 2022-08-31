@@ -11,28 +11,28 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. Student
+    - title: Ph.D. Student in Statistics
       institution: University of Texas, Austin, USA
-      year: 2021
+      year: 2021-Now
       description:
         - Advised by Professor <a href="https://nhatptnk8912.github.io/">Nhat Ho</a>
     - title: B.Sc in Computer Science
       institution: Hanoi Univeristy of Science and Technology, Hanoi, Vietnam
-      year: 2020
+      year: 2015-2020
       description:
-        - Excellence Degree (Top 1%)
-        - Thesis: Distributional Sliced Wasserstein and Applications to Generative Modeling
+        - Excellence Degree (Top 1%) (5 years program)
+        - Thesis "Distributional Sliced Wasserstein and Applications to Generative Modeling"
 
 - title: Experience
   type: time_table
   contents:
     - title: Research Intern
       institution: AT&T Labs
-      year: 2022
+      year: Summer 2022
 
     - title: AI Research Resident
       institution: VinAI Research
-      year: 2019
+      year: 2019-2021
       description:
         - Advised by Dr. <a href="https://sites.google.com/site/buihhung/">Hung Bui</a> (Director)
 
