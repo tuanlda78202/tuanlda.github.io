@@ -1,58 +1,111 @@
----
-layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
-nav: true
-nav_order: 2
-display_categories: [work, fun]
-horizontal: false
----
+[comment]: <> (---)
 
-<!-- pages/projects.md -->
-<div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
+[comment]: <> (layout: page)
 
-{%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
-</div>
+[comment]: <> (title: projects)
+
+[comment]: <> (permalink: /projects/)
+
+[comment]: <> (description: A growing collection of your cool projects.)
+
+[comment]: <> (nav: true)
+
+[comment]: <> (nav_order: 2)
+
+[comment]: <> (display_categories: [work, fun])
+
+[comment]: <> (horizontal: false)
+
+[comment]: <> (---)
+
+[comment]: <> (<!-- pages/projects.md -->)
+
+[comment]: <> (<div class="projects">)
+
+[comment]: <> ({%- if site.enable_project_categories and page.display_categories %})
+
+[comment]: <> (  <!-- Display categorized projects -->)
+
+[comment]: <> (  {%- for category in page.display_categories %})
+
+[comment]: <> (  <h2 class="category">{{ category }}</h2>)
+
+[comment]: <> (  {%- assign categorized_projects = site.projects | where: "category", category -%})
+
+[comment]: <> (  {%- assign sorted_projects = categorized_projects | sort: "importance" %})
+
+[comment]: <> (  <!-- Generate cards for each project -->)
+
+[comment]: <> (  {% if page.horizontal -%})
+
+[comment]: <> (  <div class="container">)
+
+[comment]: <> (    <div class="row row-cols-2">)
+
+[comment]: <> (    {%- for project in sorted_projects -%})
+
+[comment]: <> (      {% include projects_horizontal.html %})
+
+[comment]: <> (    {%- endfor %})
+
+[comment]: <> (    </div>)
+
+[comment]: <> (  </div>)
+
+[comment]: <> (  {%- else -%})
+
+[comment]: <> (  <div class="grid">)
+
+[comment]: <> (    {%- for project in sorted_projects -%})
+
+[comment]: <> (      {% include projects.html %})
+
+[comment]: <> (    {%- endfor %})
+
+[comment]: <> (  </div>)
+
+[comment]: <> (  {%- endif -%})
+
+[comment]: <> (  {% endfor %})
+
+[comment]: <> ({%- else -%})
+
+[comment]: <> (<!-- Display projects without categories -->)
+
+[comment]: <> (  {%- assign sorted_projects = site.projects | sort: "importance" -%})
+
+[comment]: <> (  <!-- Generate cards for each project -->)
+
+[comment]: <> (  {% if page.horizontal -%})
+
+[comment]: <> (  <div class="container">)
+
+[comment]: <> (    <div class="row row-cols-2">)
+
+[comment]: <> (    {%- for project in sorted_projects -%})
+
+[comment]: <> (      {% include projects_horizontal.html %})
+
+[comment]: <> (    {%- endfor %})
+
+[comment]: <> (    </div>)
+
+[comment]: <> (  </div>)
+
+[comment]: <> (  {%- else -%})
+
+[comment]: <> (  <div class="grid">)
+
+[comment]: <> (    {%- for project in sorted_projects -%})
+
+[comment]: <> (      {% include projects.html %})
+
+[comment]: <> (    {%- endfor %})
+
+[comment]: <> (  </div>)
+
+[comment]: <> (  {%- endif -%})
+
+[comment]: <> ({%- endif -%})
+
+[comment]: <> (</div>)
