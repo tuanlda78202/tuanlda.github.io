@@ -218,8 +218,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: Nguyen
-  first_name: [Khai]
+  last_name: Tuan
+  first_name: [Le]
 
   style: apa
   locale: en
