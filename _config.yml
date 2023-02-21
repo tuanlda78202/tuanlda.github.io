@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Khai Nguyen # the website title (if blank, full name will be used instead)
-first_name: Khai
+title: Tuan Le Duc Anh  # the website title (if blank, full name will be used instead)
+first_name: Tuan
 middle_name:
-last_name: Nguyen
-email: khainb@utexas.edu
+last_name: Le Duc Anh 
+email: tuanleducanh78202@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My personal website.
 footer_text: >
@@ -18,7 +18,7 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: /assets/img/favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://khainb.github.io # the base hostname & protocol for your site
+url: https://tuanlda78202.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -67,10 +67,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: khainb # your GitHub user name
+github_username: tuanlda78202 # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: KhaiBaNguyen # your Twitter handle
-linkedin_username: khai-nguyen-307895155 # your LinkedIn user name
+twitter_username: tuanlda78202 # your Twitter handle
+linkedin_username: tuanlda78202 # your LinkedIn user name
 scholar_userid: im5fNaQAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -101,7 +101,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Khai Nguyen # blog_name will be displayed in your blog page
+blog_name: Tuan Le Duc Anh # blog_name will be displayed in your blog page
 blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
 blog_description:
 permalink: /blog/:year/:title/
@@ -111,7 +111,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: khainb # put your disqus shortname
+disqus_shortname: tuanlda78202 # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
