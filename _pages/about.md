@@ -19,6 +19,5 @@ Hi! I'm Tuan, a junior student at [Department of Data Science and Artifical Inte
 
 **Research:** My current works on [Continual Learning] topic, investigating at [DSLab](https://bkai.ai/research/machine-learning/)
 
-
 Organizing events for the developer/researcher community is my passion, as I have run events like Google I/O, DevFest, VinAI Day,... Currently, he's in charge of two teams: Technical (@GDGHN) and Event-PR (@GDSC-HUST).
 Not only that, he also has a hobby of writing and has his own Humans of HUST blog.
