@@ -26,48 +26,46 @@
       institution: Google Developer Group, Hanoi, Vietnam
       year: Feb. 2023 - Present 
       description:
-        - Training: Guide coreteam members on general AI issues from Computer Vision perspective, deploying some practical applications
+        - Guide coreteam members on general AI issues from Computer Vision perspective, deploying some practical applications
 
     - title: Computer Vision Engineer
       institution: IWannaTech, Hanoi, Vietnam
       year: Jun. 2022 - Present
       description:
-        - Pose Estimation: Research and implement the problem of Pose2D and 3D recognition, applied to the modeling problem of anime dance application, based on VideoPose3D and OpenPose architecture
-        - Action Recognition: Research and implementation of smoking behavior identification in factories, based on Pose and Conv3D
-        - Object Detection: Researching and implementing the problem of object and person recognition, applied to the employee timekeeping problem by camera, based on YOLOv5 Tiny, YOLOv7 and FaceNet architectures
-        - Segmentation: Researching and implementing segmtent and salient object detection of Korean and English images in the Namecard project, based on U2Net architecture
-        - OCR: Research, custom code and implement Korean OCR, based on DBNet++
-        - US House Prediction: Solve iFixerup problem, predict real house prices in the US, inspired by Zillow, based on boosting algorithms like XGBoost, LightGBM and CatBoost for tabular data 
+        - Research and implement the problem of Pose2D and 3D recognition, applied to the modeling problem of anime dance application, based on VideoPose3D and OpenPose architecture
+        - Research and implementation of smoking behavior identification in factories, based on Pose and Conv3D
+        - Researching and implementing the problem of object and person recognition, applied to the employee timekeeping problem by camera, based on YOLOv5 Tiny, YOLOv7 and FaceNet architectures
+        - Researching and implementing segmtent and salient object detection of Korean and English images in the Namecard project, based on U2Net architecture
+        - Research, custom code and implement Korean OCR, based on DBNet++
+        - Solve iFixerup problem, predict real house prices in the US, inspired by Zillow, based on boosting algorithms like XGBoost, LightGBM and CatBoost for tabular data 
     
     - title: Machine Learning Research Assistant
       institution: DSLab, BKAI, Vietnam
       year: Dec. 2021 - Present
       description:
-        - Continual Learning: Research on solving adaptive dropout architecture in Continual Learning problem
+        - Research on solving adaptive dropout architecture in Continual Learning problem
     
     - title: AI Developer
       institution: Google Developer Student Club, HUST, Vietnam
       year: Dec. 2021 - Present
       description:
-        - Seminar: Hold weekly seminars, discuss papers and outstanding applications in AI
+        - Hold weekly seminars, discuss papers and outstanding applications in AI
 
     - title: Founder 
       institution: Humans of HUST 
       year: Jan. 2021 - Present
-      description:
-        - Continual Learning: Research on solving adaptive dropout architecture in Continual Learning problem
 
     - title: Machine Learning Engineer
       institution: LEAN Platform, Southeast Asia
       year: Aug. 2022 - Jan. 2023
       description:
-        - Action Recognition: Research, develop and deploy a model to identify concentration levels when self-studying, applying on an online platform, based on Conv3D
+        - Research, develop and deploy model to identify concentration levels when self-studying, applying on an online platform, based on Conv3D
 
 - title: Projects
   type: time_table
   contents:
 
-    - title: (Detect Cheating in Examination)[https://www.facebook.com/tintucvtv24/videos/772744667380774] 
+    - title: <a href="https://www.facebook.com/tintucvtv24/videos/772744667380774">Detect Cheating in Examination</a>
       year: 2022
       description:
         - Research and apply the problem of identifying cheating behavior in exams; based on OpenPose, Transformer and VidConv3D for online streaming
