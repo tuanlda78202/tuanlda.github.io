@@ -6,7 +6,7 @@ subtitle: Ph.D. Student at <a href='https://stat.utexas.edu/'>Department of Stat
 
 profile:
   align: right
-  image: charles.jpeg
+  image: charles.png
   image_circular: false # crops the image to make it circular
   address: >
    

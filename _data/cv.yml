@@ -2,42 +2,68 @@
   type: map
   contents:
     - name: Full Name
-      value: Khai Nguyen
+      value: Tuan Le Duc Anh
     - name: Date of Birth
-      value: 3rd December 1997
+      value: 7th August 2002
     - name: Languages
       value: English, Vietnamese
 
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. Student in Statistics
-      institution: University of Texas, Austin, USA
-      year: 2021-Now
-      description:
-        - Advised by Professor <a href="https://nhatptnk8912.github.io/">Nhat Ho</a>
-    - title: B.Sc in Computer Science
+    - title: B.Sc in Data Science and Artificial Intelligence
       institution: Hanoi Univeristy of Science and Technology, Hanoi, Vietnam
-      year: 2015-2020
-      description:
-        - Excellence Degree (Top 1%) (5 years program)
-        - Thesis "Distributional Sliced Wasserstein and Applications to Generative Modeling"
+      year: Oct. 2022 - Oct. 2024
 
 - title: Experience
   type: time_table
   contents:
-    - title: Research Intern
-      institution: AT&T Labs
-      year: Summer 2022
+    - title: Computer Vision Engineer
+      institution: Viettel High Tech, Hanoi, Vietnam
+      year: Mar. 2023 - Present 
 
-    - title: AI Research Resident
-      institution: VinAI Research
-      year: 2019-2021
+    - title: Lead of Technical Team
+      institution: Google Developer Group, Hanoi, Vietnam
+      year: Feb. 2023 - Present 
       description:
-        - Advised by Dr. <a href="https://sites.google.com/site/buihhung/">Hung Bui</a> (Director)
+        - Training: Guide coreteam members on general AI issues from Computer Vision perspective, deploying some practical applications
+
+    - title: Computer Vision Engineer
+      institution: IWannaTech, Hanoi, Vietnam
+      year: Jun. 2022 - Present
+        - Pose Estimation: Research and implement the problem of Pose2D and 3D recognition, applied to the modeling problem of anime dance application, based on VideoPose3D and OpenPose architecture
+        - Action Recognition: Research and implementation of smoking behavior identification in factories, based on Pose and Conv3D
+        - Object Detection: Researching and implementing the problem of object and person recognition, applied to the employee timekeeping problem by camera, based on YOLOv5 Tiny, YOLOv7 and FaceNet architectures
+        - Segmentation: Researching and implementing segmtent and salient object detection of Korean and English images in the Namecard project, based on U2Net architecture
+        - OCR: Research, custom code and implement Korean OCR, based on DBNet++
+        - US House Prediction: Solve iFixerup problem, predict real house prices in the US, inspired by Zillow, based on boosting algorithms like XGBoost, LightGBM and CatBoost for tabular data 
+    
+    - title: Machine Learning Research Assistant
+      institution: DSLab, BKAI, Vietnam
+      year: Dec. 2021 - Present
+      description:
+        - Continual Learning: Research on solving adaptive dropout architecture in Continual Learning problem
+    
+    - title: AI Developer
+      institution: Google Developer Student Club, HUST, Vietnam
+      year: Dec. 2021 - Present
+      description:
+        - Seminar: Hold weekly seminars, discuss papers and outstanding applications in AI
+
+    - title: Founder 
+      institution: Humans of HUST 
+      year: Jan. 2021 - Present
+      description:
+        - Continual Learning: Research on solving adaptive dropout architecture in Continual Learning problem
+
+    - title: Machine Learning Engineer
+      institution: LEAN Platform, Southeast Asia
+      year: Aug. 2022 - Jan. 2023
+      description:
+        - Action Recognition: Research, develop and deploy a model to identify concentration levels when self-studying, applying on an online platform, based on Conv3D
 
 
-- title: Honors and Awards
+- title: Projects 
   type: time_table
   contents:
     - year: 2022
@@ -48,8 +74,21 @@
       items: 
         - UT Austin Graduate Fellowship (~30,000$)
 
-- title: Professional Services
+
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+
+    - title: (Detect Cheating in Examination)[https://www.facebook.com/tintucvtv24/videos/772744667380774] 
+      year: 2022
+      description:
+        - Research and apply the problem of identifying cheating behavior in exams; based on OpenPose, Transformer and VidConv3D for online streaming
+
+- title: Volunteering
   type: list
   contents:
-    - <u>Journal Reviewer:</u> JMLR.
-    - <u>Conference Reviewer/ Program Committee:</u> NeurIPS (2021,2022), ICML (2021,2022), ICLR (2022,2023), AISTATS (2022,2023), AAAI (2023).
+    - <u> Google Developer Group Hanoi:</u> Speaker present topic ”Detect Cheating in Examination” at DevFest 2022
+    - <u> VinAI Research:</u> Technical Collaborator at AI Day 2022
+    - <u> Nestle:</u> Ambassador of MT SparkTheNext Leaders Program 2023
+    - <u> AIESEC:</u> Ambassador of Mini Leadership Conference 2022
