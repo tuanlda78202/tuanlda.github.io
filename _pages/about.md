@@ -15,8 +15,12 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi! I'm Tuan, a junior student at [Department of Data Science and Artifical Intelligence](https://stat.utexas.edu/), [Hanoi University of Science and Technology](https://hust.edu.vn), advised by Professor <a href='https://users.soict.hust.edu.vn/linhnv/'>Linh Ngo</a>
+Hi! I'm Tuan, a junior student at Department of Data Science and Artifical Intelligence, [Hanoi University of Science and Technology](https://hust.edu.vn), advised by Professor <a href='https://users.soict.hust.edu.vn/linhnv/'>Linh Ngo</a>
 
-**Research:** My current works on Continual Learning topic, investigating at [DSLab](https://bkai.ai/research/machine-learning/)
+**Work:** My current research is focused on Computer Vision algorithms at [Viettel High Tech](https://viettelhightech.vn), a subsidiary of [Viettel Group](https://viettel.com.vn/en/). These models are being deployed in practical applications at [IWannaTech](https://www.facebook.com/iwannatech), and my primary areas of research and application include real-time Pose Estimation, Action Recognition, and Object Detection.
 
-**Experience:** I'm engaged in Computer Vision at @ViettelHighTech and @IWannaTech. I possess a passion for organizing events tailored to the developer and researcher community and has successfully executed notable events such as Google I/O, DevFest, and VinAI Day. I currently oversee two teams, namely Technical (@GDGHN) and Event-PR (@GDSC-HUST). Furthermore, I indulge in the pastime of writing and maintains my own blog titled Humans of HUST.
+**Research** At [DSLab](https://bkai.ai/research/machine-learning/), I am exploring new models and methods for Continual Learning, which enables machines to learn continuously from tasks to tasks, even when data is received sequentially and infinitely. My current work is focused on adaptive dropout neural networks within this architecture.
+
+**Community** I am an active member of two Google community organizations, including [Google Developer Groups Hanoi](https://gdg.community.dev/gdg-ha-noi/) and [Google Developer Students Club - Hanoi University of Science and Technology](https://gdsc.community.dev/hanoi-university-of-science-technology-hust/), where I serve as a core team member. I am passionate about sharing knowledge and organizing events for the research and developer community. Through these organizations, I have successfully organized several events, such as Google I/O 2022, AI Day VinAI 2022, Google DevFest Hanoi 2022, and International Women's Day x Flutter Forward Extended Hanoi 2023. I was honored to be a speaker at Google DevFest22, where I presented on the topic of ["Detecting Cheating in Examinations".](https://www.facebook.com/GDGhanoi/photos/a.295913770557546/2473122272836674/)
+
+**Blog**: In my personal time, I enjoy writing and maintain a blog called [Humans of HUST](https://www.facebook.com/pageofhumanshust). The blog primarily focuses on topics related to life, academics, and relationships.
