@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Student at <a href='https://stat.utexas.edu/'>Department of Statistics and Data Sciences</a>, <a href='https://www.utexas.edu/'>University of Texas at Austin</a> 
+subtitle: Computer Vision Researcher at <a href='https://viettelhightech.vn'>Viettel High Tech</a>
 
 profile:
   align: right
@@ -15,10 +15,8 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi! I'm Tuan, a junior student at [Department of Data Science and Artifical Intelligence](https://stat.utexas.edu/), [Hanoi University of Science and Technology](https://hust.edu.vn), advised by Professor [Linh Ngo](https://users.soict.hust.edu.vn/linhnv/).
+Hi! I'm Tuan, a junior student at [Department of Data Science and Artifical Intelligence](https://stat.utexas.edu/), [Hanoi University of Science and Technology](https://hust.edu.vn), advised by Professor <a href='https://users.soict.hust.edu.vn/linhnv/'>Linh Ngo</a>
 
-**Research:** My current works on [Continual Learning] topic, investigating at [DSLab](https://bkai.ai/research/machine-learning/)
+**Research:** My current works on Continual Learning topic, investigating at [DSLab](https://bkai.ai/research/machine-learning/)
 
-Organizing events for the developer/researcher community is my passion, as I have run events like Google I/O, DevFest, VinAI Day,... Currently, he's in charge of two teams: Technical (@GDGHN) and Event-PR (@GDSC-HUST).
-Not only that, he also has a hobby of writing and has his own Humans of HUST blog.
-  
+**Experience** I'm engaged in Computer Vision at @ViettelHighTech and @IWannaTech. I possess a passion for organizing events tailored to the developer and researcher community and has successfully executed notable events such as Google I/O, DevFest, and VinAI Day. I currently oversee two teams, namely Technical (@GDGHN) and Event-PR (@GDSC-HUST). Furthermore, I indulge in the pastime of writing and maintains my own blog titled Humans of HUST.
