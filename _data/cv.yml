@@ -31,6 +31,7 @@
     - title: Computer Vision Engineer
       institution: IWannaTech, Hanoi, Vietnam
       year: Jun. 2022 - Present
+      description:
         - Pose Estimation: Research and implement the problem of Pose2D and 3D recognition, applied to the modeling problem of anime dance application, based on VideoPose3D and OpenPose architecture
         - Action Recognition: Research and implementation of smoking behavior identification in factories, based on Pose and Conv3D
         - Object Detection: Researching and implementing the problem of object and person recognition, applied to the employee timekeeping problem by camera, based on YOLOv5 Tiny, YOLOv7 and FaceNet architectures
@@ -62,21 +63,7 @@
       description:
         - Action Recognition: Research, develop and deploy a model to identify concentration levels when self-studying, applying on an online platform, based on Conv3D
 
-
-- title: Projects 
-  type: time_table
-  contents:
-    - year: 2022
-      items:
-        - NeurIPS Scholar Award (~2,000$)
-        - ICML Travel Grant (~2,000$)
-    - year: 2021
-      items: 
-        - UT Austin Graduate Fellowship (~30,000$)
-
-
-
-- title: Honors and Awards
+- title: Projects
   type: time_table
   contents:
 
