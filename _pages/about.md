@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hi! I'm Tuan, a junior student at Department of Data Science and Artificial Intelligence, [Hanoi University of Science and Technology](https://hust.edu.vn), advised by Professor <a href='https://users.soict.hust.edu.vn/linhnv/'>Linh Ngo</a>.
 
-**Work:** My current research is focused on Computer Vision algorithms at [Viettel High Tech](https://viettelhightech.vn), [Viettel Group](https://viettel.com.vn/en/). These models are being deployed in practical applications at [IWannaTech](https://www.facebook.com/iwannatech), and my primary areas of research and application include real-time Pose Estimation, Action Recognition, and Object Detection.
+**Work:** My current research is focused on Computer Vision algorithms at [Viettel High Tech](https://viettelhightech.vn), [Viettel Group](https://viettel.com.vn/en/).
 
 **Research:** At [DSLab](https://bkai.ai/research/machine-learning/), I am exploring new models and methods for Continual Learning, which enables machines to learn continuously from tasks to tasks, even when data is received sequentially and infinitely. My current work is focused on adaptive dropout neural networks within this architecture.
 
