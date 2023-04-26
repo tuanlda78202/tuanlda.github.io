@@ -18,7 +18,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Computer Vision Engineer
+    - title: Computer Vision Researcher
       institution: Viettel High Tech, Hanoi, Vietnam
       year: Mar. 2023 - Present 
 
@@ -27,17 +27,6 @@
       year: Feb. 2023 - Present 
       description:
         - Guide coreteam members on general AI issues from Computer Vision perspective, deploying some practical applications
-
-    - title: Computer Vision Engineer
-      institution: IWannaTech, Hanoi, Vietnam
-      year: Jun. 2022 - Present
-      description:
-        - Research and implement the problem of Pose2D and 3D recognition, applied to the modeling problem of anime dance application, based on VideoPose3D and OpenPose architecture
-        - Research and implementation of smoking behavior identification in factories, based on Pose and Conv3D
-        - Researching and implementing the problem of object and person recognition, applied to the employee timekeeping problem by camera, based on YOLOv5 Tiny, YOLOv7 and FaceNet architectures
-        - Researching and implementing segmtent and salient object detection of Korean and English images in the Namecard project, based on U2Net architecture
-        - Research, custom code and implement Korean OCR, based on DBNet++
-        - Solve iFixerup problem, predict real house prices in the US, inspired by Zillow, based on boosting algorithms like XGBoost, LightGBM and CatBoost for tabular data 
     
     - title: Machine Learning Research Assistant
       institution: DSLab, BKAI, Vietnam
@@ -54,6 +43,17 @@
     - title: Founder 
       institution: Humans of HUST 
       year: Jan. 2021 - Present
+
+    - title: Computer Vision Engineer
+      institution: IWannaTech, Hanoi, Vietnam
+      year: Jun. 2022 - April. 2023
+      description:
+        - Research and implement the problem of Pose2D and 3D recognition, applied to the modeling problem of anime dance application, based on VideoPose3D and OpenPose architecture
+        - Research and implementation of smoking behavior identification in factories, based on Pose and Conv3D
+        - Researching and implementing the problem of object and person recognition, applied to the employee timekeeping problem by camera, based on YOLOv5 Tiny, YOLOv7 and FaceNet architectures
+        - Researching and implementing segmtent and salient object detection of Korean and English images in the Namecard project, based on U2Net architecture
+        - Research, custom code and implement Korean OCR, based on DBNet++
+        - Solve iFixerup problem, predict real house prices in the US, inspired by Zillow, based on boosting algorithms like XGBoost, LightGBM and CatBoost for tabular data 
 
     - title: Machine Learning Engineer
       institution: LEAN Platform, Southeast Asia
