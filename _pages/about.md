@@ -7,7 +7,7 @@ subtitle: Computer Vision Researcher at <a href='https://viettelhightech.vn'>Vie
 profile:
   align: right
   image: charles.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
    
 
