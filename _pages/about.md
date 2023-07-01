@@ -15,14 +15,14 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi! I'm Tuan, a junior student at Department of Data Science and Artificial Intelligence, [Hanoi University of Science and Technology](https://hust.edu.vn)
+Hi! I'm Tuan 🤗 a junior DS-AI student at Hanoi University of Science and Technology.
 
 **Research:** 
 * My current research is focused on INRs for videos at Viettel, specifically addressing video reconstruction, compression, and in-painting tasks. 
 * My work led to the development of NeRV3D, a SOTA paper that outperformed all existing research in the field.
 
 **Community:** 
-* Dual role as the Technical Team Lead at [GDG Hanoi](https://gdg.community.dev/gdg-ha-noi/) and the Head of Events & PR at [GDSC HUST](https://gdsc.community.dev/hanoi-university-of-science-technology-hust/). 
+* Dual role as Technical Team Lead at [GDG Hanoi](https://gdg.community.dev/gdg-ha-noi/) and Head of Events & PR at [GDSC HUST](https://gdsc.community.dev/hanoi-university-of-science-technology-hust/). 
 
 * A strong enthusiasm exists within me for disseminating knowledge and arranging events within the research and developer community. Thanks to these efforts, I have successfully coordinated several prominent events, including Google I/O 2022, AI Day 2022, DevFest Hanoi 2022, and IWD x Flutter Forward Extended Hanoi 2023.
   
