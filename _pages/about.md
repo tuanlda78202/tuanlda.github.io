@@ -15,12 +15,17 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi! I'm Tuan, a junior student at Department of Data Science and Artificial Intelligence, [Hanoi University of Science and Technology](https://hust.edu.vn), advised by Professor <a href='https://users.soict.hust.edu.vn/linhnv/'>Linh Ngo</a>.
+Hi! I'm Tuan, a junior student at Department of Data Science and Artificial Intelligence, [Hanoi University of Science and Technology](https://hust.edu.vn)
 
-**Work:** My current research is focused on Computer Vision algorithms at [Viettel High Tech](https://viettelhightech.vn), [Viettel Group](https://viettel.com.vn/en/).
+**Research:** 
+* My current research is focused on INRs for videos at [Viettel High Tech](https://viettelhightech.vn), specifically addressing video reconstruction, compression, and in-painting tasks. 
+* My work led to the development of NeRV3D, a state-of-the-art (SOTA) paper that outperformed all existing research in the field.
 
-**Research:** At [DSLab](https://bkai.ai/research/machine-learning/), I am exploring new models and methods for Continual Learning, which enables machines to learn continuously from tasks to tasks, even when data is received sequentially and infinitely. My current work is focused on adaptive dropout neural networks within this architecture.
+**Community:** 
+* Dual role as the Technical Team Lead at [GDG Hanoi](https://gdg.community.dev/gdg-ha-noi/) and the Head of Events & PR at [GDSC HUST](https://gdsc.community.dev/hanoi-university-of-science-technology-hust/). 
 
-**Community:** I'm core-team member of two Google community organizations, including [Google Developer Groups Hanoi](https://gdg.community.dev/gdg-ha-noi/) and [Google Developer Students Club - Hanoi University of Science and Technology](https://gdsc.community.dev/hanoi-university-of-science-technology-hust/). A strong enthusiasm exists within me for disseminating knowledge and arranging events within the research and developer community. Through these organizations, I have successfully organized several events, such as Google I/O 2022, AI Day VinAI 2022, Google DevFest Hanoi 2022, and International Women's Day x Flutter Forward Extended Hanoi 2023. The opportunity to speak at Google DevFest22 was an honor for me, where the topic of my presentation was ["Detecting Cheating in Examinations".](https://www.facebook.com/GDGhanoi/photos/a.295913770557546/2473122272836674/)
+* A strong enthusiasm exists within me for disseminating knowledge and arranging events within the research and developer community. Thanks to these efforts, I have successfully coordinated several prominent events, including Google I/O 2022, AI Day 2022, DevFest Hanoi 2022, and IWD x Flutter Forward Extended Hanoi 2023.
+  
+* The opportunity to speak at Google DevFest22 was an honor for me, where the topic of my presentation was ["Detecting Cheating in Examinations".](https://www.facebook.com/GDGhanoi/photos/a.295913770557546/2473122272836674/)
 
-**Blog:** In my personal time, I enjoy writing and maintain a blog called [Humans of HUST](https://www.facebook.com/pageofhumanshust). The blog primarily focuses on topics related to life, academics and love life.
+**Blog:** In my leisure time, I find pleasure in writing and curating content for my blog, "Humans of HUST." This blog is dedicated to exploring various aspects of life, academia, and love. You can find it at [Humans of HUST](https://www.facebook.com/pageofhumanshust).
