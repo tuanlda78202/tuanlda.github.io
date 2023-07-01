@@ -18,8 +18,8 @@ social: true  # includes social icons at the bottom of the page
 Hi! I'm Tuan, a junior student at Department of Data Science and Artificial Intelligence, [Hanoi University of Science and Technology](https://hust.edu.vn)
 
 **Research:** 
-* My current research is focused on INRs for videos at [Viettel High Tech](https://viettelhightech.vn), specifically addressing video reconstruction, compression, and in-painting tasks. 
-* My work led to the development of NeRV3D, a state-of-the-art (SOTA) paper that outperformed all existing research in the field.
+* My current research is focused on INRs for videos at Viettel, specifically addressing video reconstruction, compression, and in-painting tasks. 
+* My work led to the development of NeRV3D, a SOTA paper that outperformed all existing research in the field.
 
 **Community:** 
 * Dual role as the Technical Team Lead at [GDG Hanoi](https://gdg.community.dev/gdg-ha-noi/) and the Head of Events & PR at [GDSC HUST](https://gdsc.community.dev/hanoi-university-of-science-technology-hust/). 
