@@ -22,21 +22,21 @@
       institution: Viettel High Tech, Hanoi, Vietnam
       year: Mar. 2023 - Present
       description:
-        - Researched INRs for videos, addressing video reconstruction, compression, and in-painting tasks; achieved SOTA paper (NeRV3D) outperformed all existing research
+        - Researched INRs for videos, addressing video reconstruction, compression, and in-painting tasks; achieved SOTA paper (NeRV3D) outperformed all existing research.
 
-    - title: Lead of Technical Team
+    - title: <a href="https://gdg.community.dev/gdg-ha-noi/">Lead of Technical Team </a>
       institution: Google Developer Groups, Hanoi, Vietnam
-      year: Feb. 2023 - Present 
+      year: Oct. 2022 - Present 
       description:
-        - Planned and created project blueprints, delegated tasks to individuals, connected teams, and provided future operational guidance
+        - Planned and created project blueprints, delegated tasks to individuals, connected teams, and provided future operational guidance.
     
-    - title: Machine Learning Research Assistant
-      institution: DSLab, BKAI, Vietnam
+    - title: <a href="http://ds.soict.hust.edu.vn/?page_id=20">Machine Learning Research Assistant </a>
+      institution: Data Science Laboratory, BKAI, Vietnam
       year: Jan. 2022 - Present
       description:
-        - Researched adaptive dropout for sequential task-based data learning
+        - Researched adaptive dropout for sequential task-based data learning.
     
-    - title: Head of Event&PR Team
+    - title: <a href="https://gdsc.community.dev/hanoi-university-of-science-technology-hust/">Head of Event&PR Team </a>
       institution: Google Developer Students Club, HUST, Vietnam
       year: Dec. 2021 - Present
 
@@ -49,14 +49,14 @@
       year: Jun. 2022 - April. 2023
       description:
         - Implemented gesture recognition model for anime dance modeling using VideoPose3D.
-        - Deployed real-time facial recognition for attendance tracking using YOLOv5 Tiny and FaceNet architectures in a 1000-employee company
-        - Researched and deployed edge SOD for recognizing Korean and English fonts on name cards, leveraging U2Net and DIS architectures
+        - Deployed real-time facial recognition for attendance tracking using YOLOv5 Tiny and FaceNet architectures in a 1000-employee company.
+        - Researched and deployed edge SOD for recognizing Korean and English fonts on name cards, leveraging U2Net and DIS architectures.
 
-    - title: Machine Learning Researcher
+    - title: <a href="https://drive.google.com/file/d/1KCzH6j3W12mHHMrYA_0QIHZYRVflnRTA/view">Machine Learning Researcher</a>
       institution: LEAN Platform, Southeast Asia
       year: Aug. 2022 - Jan. 2023
       description:
-        - Developed real-time Conv3D model for concentration recognition in online self-learning platform with 10000 users
+        - Developed real-time Conv3D model for concentration recognition in online self-learning platform with 10000 users.
 
 - title: Projects
   type: time_table
