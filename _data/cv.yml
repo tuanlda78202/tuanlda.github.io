@@ -11,8 +11,8 @@
 - title: Education
   type: time_table
   contents:
-    - title: B.Sc in Data Science and Artificial Intelligence
-      institution: Hanoi Univeristy of Science and Technology, Hanoi, Vietnam
+    - title: Bachelor of Science in Data Science and Artificial Intelligence
+      institution: Hanoi University of Science and Technology, Hanoi, Vietnam
       year: Oct. 2022 - Oct. 2024
 
 - title: Experience
@@ -20,25 +20,25 @@
   contents:
     - title: Computer Vision Researcher
       institution: Viettel High Tech, Hanoi, Vietnam
-      year: Mar. 2023 - Present 
+      year: Mar. 2023 - Present
+      description:
+        - Researched INRs for videos, addressing video reconstruction, compression, and in-painting tasks; achieved SOTA paper (NeRV3D) outperformed all existing research
 
     - title: Lead of Technical Team
-      institution: Google Developer Group, Hanoi, Vietnam
+      institution: Google Developer Groups, Hanoi, Vietnam
       year: Feb. 2023 - Present 
       description:
-        - Guide coreteam members on general AI issues from Computer Vision perspective, deploying some practical applications
+        - Planned and created project blueprints, delegated tasks to individuals, connected teams, and provided future operational guidance
     
     - title: Machine Learning Research Assistant
       institution: DSLab, BKAI, Vietnam
-      year: Dec. 2021 - Present
+      year: Jan. 2022 - Present
       description:
-        - Research on solving adaptive dropout architecture in Continual Learning problem
+        - Researched adaptive dropout for sequential task-based data learning
     
-    - title: AI Developer
-      institution: Google Developer Student Club, HUST, Vietnam
+    - title: Head of Event&PR Team
+      institution: Google Developer Students Club, HUST, Vietnam
       year: Dec. 2021 - Present
-      description:
-        - Hold weekly seminars, discuss papers and outstanding applications in AI
 
     - title: Founder 
       institution: Humans of HUST 
@@ -48,32 +48,34 @@
       institution: IWannaTech, Hanoi, Vietnam
       year: Jun. 2022 - April. 2023
       description:
-        - Research and implement the problem of Pose2D and 3D recognition, applied to the modeling problem of anime dance application, based on VideoPose3D and OpenPose architecture
-        - Research and implementation of smoking behavior identification in factories, based on Pose and Conv3D
-        - Researching and implementing the problem of object and person recognition, applied to the employee timekeeping problem by camera, based on YOLOv5 Tiny, YOLOv7 and FaceNet architectures
-        - Researching and implementing segmtent and salient object detection of Korean and English images in the Namecard project, based on U2Net architecture
-        - Research, custom code and implement Korean OCR, based on DBNet++
-        - Solve iFixerup problem, predict real house prices in the US, inspired by Zillow, based on boosting algorithms like XGBoost, LightGBM and CatBoost for tabular data 
+        - Implemented gesture recognition model for anime dance modeling using VideoPose3D.
+        - Deployed real-time facial recognition for attendance tracking using YOLOv5 Tiny and FaceNet architectures in a 1000-employee company
+        - Researched and deployed edge SOD for recognizing Korean and English fonts on name cards, leveraging U2Net and DIS architectures
 
-    - title: Machine Learning Engineer
+    - title: Machine Learning Researcher
       institution: LEAN Platform, Southeast Asia
       year: Aug. 2022 - Jan. 2023
       description:
-        - Research, develop and deploy model to identify concentration levels when self-studying, applying on an online platform, based on Conv3D
+        - Developed real-time Conv3D model for concentration recognition in online self-learning platform with 10000 users
 
 - title: Projects
   type: time_table
   contents:
 
+    - title: <a href="https://gdghanoi.com/google-io-extended-2023">Google I/O 2023 Website</a>
+      year: 2023
+      description:
+        - Designed front-end client and admin websites, deployed hosting, and tracked event emails
+
     - title: <a href="https://www.facebook.com/tintucvtv24/videos/772744667380774">Detect Cheating in Examination</a>
       year: 2022
       description:
-        - Research and apply the problem of identifying cheating behavior in exams; based on OpenPose, Transformer and VidConv3D for online streaming
+        - Researched and deployed real-time cheating detection solution using Pose3D and VideoMAE for 100-person exam rooms
 
 - title: Volunteering
   type: list
   contents:
-    - <u> Google Developer Group Hanoi:</u> Speaker present topic ”Detect Cheating in Examination” at DevFest 2022
+    - <u> Google Developer Group Hanoi:</u> Speaker presents "Detecting Cheating in Examinations" at DevFest 2022
     - <u> VinAI Research:</u> Technical Collaborator at AI Day 2022
     - <u> Nestle:</u> Ambassador of MT SparkTheNext Leaders Program 2023
-    - <u> AIESEC:</u> Ambassador of Mini Leadership Conference 2022
+    - <u> AIESEC:</u> Representative of Mini Leadership Conference 2022
