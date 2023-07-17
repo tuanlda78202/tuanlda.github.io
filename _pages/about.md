@@ -25,9 +25,10 @@ Hi! I'm Tuan 🤗 Junior DS-AI student at Hanoi University of Science and Techno
 * Dual role as Technical Team Lead at [GDG Hanoi](https://gdg.community.dev/gdg-ha-noi/) and Head of Events&PR at [GDSC-HUST.](https://gdsc.community.dev/hanoi-university-of-science-technology-hust/)
 
 * A strong enthusiasm exists within me for disseminating knowledge and arranging events within the research and developer community. 
-  Thanks to these efforts, I have successfully coordinated several prominent events, including Google I/O 2022, AI Day 2022, DevFest Hanoi 2022, and IWD x Flutter Forward Extended Hanoi 2023.
+  Thanks to these efforts, I have successfully coordinated several prominent events, including Google I/O Extended Hanoi 2022, AI Day 2022, DevFest Hanoi 2022, IWD x Flutter Forward Extended Hanoi 2023 and Google I/O Extended Hanoi 2023.
   
 * The opportunity to speak at Google DevFest22 was an honor for me, where the topic of my presentation was ["Detecting Cheating in Examinations".](https://www.facebook.com/GDGhanoi/photos/a.295913770557546/2473122272836674/)
 
 **Blog:** In my leisure time, I find pleasure in writing and curating content for my blog, ["Humans of HUST".](https://www.facebook.com/pageofhumanshust)
+
 * This blog serves as an outlet for me to express my thoughts and share daily stories encompassing various aspects of my life, including studies, research working and matters of the heart.
