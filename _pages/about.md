@@ -15,17 +15,15 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi! I'm Tuan 🤗 Junior DS-AI student at Hanoi University of Science and Technology.
+Hi! I'm Tuan 🤗 Senior DS-AI student at Hanoi University of Science and Technology.
 
 **Research:** 
 * My current topic is focused on INRs for videos, specifically addressing video reconstruction, compression, and in-painting tasks. 
-* My work led to the development of NeRV3D, a SOTA paper that outperformed all existing research in the field.
+* My work resulted in 3DNeRV, a SOTA paper that surpassed existing research in the field, submitted to AAAI 2024, advancing video reconstruction and compression.
 
 **Community:** 
-* Dual role as Technical Team Lead at [GDG Hanoi](https://gdg.community.dev/gdg-ha-noi/) and Head of Events&PR at [GDSC-HUST.](https://gdsc.community.dev/hanoi-university-of-science-technology-hust/)
 
-* A strong enthusiasm exists within me for disseminating knowledge and arranging events within the research and developer community. 
-  Thanks to these efforts, I have successfully coordinated several prominent events, including Google I/O Extended Hanoi 2022, AI Day 2022, DevFest Hanoi 2022, IWD x Flutter Forward Extended Hanoi 2023 and Google I/O Extended Hanoi 2023.
+* A strong enthusiasm exists within me for disseminating knowledge and organizing events within the research and developer community. Thanks to these endeavors, I have successfully coordinated several notable events, including Google I/O Extended Hanoi 2022, AI Day 2022, DevFest Hanoi 2022, IWD x FFE Hanoi 2023, Google I/O Extended Hanoi 2023, and I have recently become an AI mentor for the SheCodes Hackathon Hanoi 2023. 
   
 * The opportunity to speak at Google DevFest22 was an honor for me, where the topic of my presentation was ["Detecting Cheating in Examinations".](https://www.facebook.com/GDGhanoi/photos/a.295913770557546/2473122272836674/)
 

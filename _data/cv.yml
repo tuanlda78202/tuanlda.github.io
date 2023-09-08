@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Tuan Le Duc Anh
+      value: Le Duc Anh Tuan
     - name: Date of Birth
       value: 7th August 2002
     - name: Languages
@@ -22,11 +22,11 @@
       institution: Viettel High Tech, Hanoi, Vietnam
       year: Mar. 2023 - Present
       description:
-        - Researched INRs for videos, addressing video reconstruction, compression, and in-painting tasks; achieved SOTA paper (NeRV3D) outperformed all existing research.
+        - Researched INRs for videos, resolved temporal information problem in previous NeRV-based methods, achieved SOTA results, and submitted to AAAI 2024 conference for video reconstruction and compression tasks.
 
     - title: <a href="https://gdg.community.dev/gdg-ha-noi/">Lead of Technical Team </a>
       institution: Google Developer Groups, Hanoi, Vietnam
-      year: Oct. 2022 - Present 
+      year: Feb. 2023 - Present 
       description:
         - Planned and created project blueprints, delegated tasks to individuals, connected teams, and provided future operational guidance.
     
@@ -35,14 +35,14 @@
       year: Jan. 2022 - Present
       description:
         - Researched adaptive dropout for sequential task-based data learning.
-    
-    - title: <a href="https://gdsc.community.dev/hanoi-university-of-science-technology-hust/">Head of Event&PR Team </a>
-      institution: Google Developer Students Club, HUST, Vietnam
-      year: Dec. 2021 - Present
 
     - title: Founder 
       institution: Humans of HUST 
       year: Jan. 2021 - Present
+
+    - title: <a href="https://gdsc.community.dev/hanoi-university-of-science-technology-hust/">Head of Event&PR Team </a>
+      institution: Google Developer Students Club, HUST, Vietnam
+      year: Sep. 2022 - Sep. 2023
 
     - title: Computer Vision Engineer
       institution: IWannaTech, Hanoi, Vietnam
@@ -75,7 +75,7 @@
 - title: Volunteering
   type: list
   contents:
-    - <u> Google Developer Group Hanoi:</u> Ambassador of Google I/O Extended Hanoi 2023
+    - <u> SheCodes Vietnam:</u> AI Mentor of SheCodes Hackathon Hanoi 2023
     - <u> Nestle:</u> Ambassador of MT SparkTheNext Leaders Program 2023
     - <u> AIESEC:</u> Representative of Mini Leadership Conference 2022
     - <u> Google Developer Group Hanoi:</u> Speaker presents "Detecting Cheating in Examinations" at DevFest 2022
