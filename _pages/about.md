@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Computer Vision Researcher at <a href='https://viettelhightech.vn'>Viettel High Tech</a>
+subtitle: Former Computer Vision Researcher at <a href='https://viettelhightech.vn'>Viettel High Tech</a>
 
 profile:
   align: right
