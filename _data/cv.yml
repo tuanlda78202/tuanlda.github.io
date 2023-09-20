@@ -18,6 +18,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Applied Scientist 
+      institution: VinBrain
+      year: Oct. 2023 - Present
+      description:
+        - Researched, fine-tuned, and deployed large language models, specifically for healthcare.
+
     - title: Lead of Technical Team
       institution: Google Developer Groups, Hanoi, Vietnam
       year: Feb. 2023 - Present 
@@ -57,7 +63,7 @@
       year: Aug. 2022 - Jan. 2023
       description:
         - Developed real-time Conv3D model for concentration recognition in online self-learning platform with 10000 users.
-
+ 
 - title: Projects
   type: time_table
   contents:
