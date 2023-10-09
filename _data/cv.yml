@@ -18,11 +18,11 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Applied Scientist 
+    - title: Computer Vision Researcher 
       institution: VinBrain
       year: Oct. 2023 - Present
       description:
-        - Researched, fine-tuned, and deployed large language models, specifically for healthcare.
+        - Researching and applying CV in colorectal cancer diagnosis and treatment support.
 
     - title: Lead of Technical Team
       institution: Google Developer Groups, Hanoi, Vietnam
