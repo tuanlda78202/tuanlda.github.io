@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Computer Vision Researcher at <a href='https://vinbrain.net'>VinBrain</a>
+subtitle: Applied Scientist at <a href='https://vinbrain.net'>VinBrain</a>
 
 profile:
   align: right
@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 Hi! I'm Tuan 🤗 Senior DS-AI student at Hanoi University of Science and Technology.
 
 **Research:** 
-* My current research involves medical image segmentation for MRI data, specifically for colorectal cancer tumor segmentation and classification to support treatment.
+* My current research involves medical image segmentation for MRI data, specifically for rectal cancer tumor segmentation and classification to support treatment.
 * My previous topic is focused on INRs for videos, specifically addressing video reconstruction, compression, and in-painting tasks. 
   * My work resulted in 3DNeRV, a SOTA paper that surpassed existing research in the field, submitted to AAAI 2024, advancing video reconstruction and compression. (🎉 Update 28/09/2023: Passed phase 1)
 
