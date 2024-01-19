@@ -11,34 +11,34 @@
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor of Science in Data Science and Artificial Intelligence
+    - title: BSc. in Data Science and Artificial Intelligence
       institution: Hanoi University of Science and Technology, Hanoi, Vietnam
       year: Oct. 2020 - Aug. 2024
 
 - title: Experience
   type: time_table
   contents:
-    - title: Computer Vision Researcher 
-      institution: VinBrain
-      year: Oct. 2023 - Present
-      description:
-        - Researching and applying CV in colorectal cancer diagnosis and treatment support.
-
     - title: Lead of Technical Team
       institution: Google Developer Groups, Hanoi, Vietnam
-      year: Feb. 2023 - Present 
+      year: Sep. 2022 - Present 
       description:
-        - Planned and created project blueprints, delegated tasks to individuals, connected teams, and provided future operational guidance.
+        - Leadership: Planned and created project blueprints, delegated tasks to individuals, connected teams, and provided future operational guidance.
+    
+    - title: Founder 
+      institution: Humans of HUST, Vietnam
+      year: Jan. 2021 - Present
+
+    - title: Computer Vision Researcher 
+      institution: VinBrain, Hanoi, Vietnam
+      year: Sep. 2023 - Dec. 2023
+      description:
+        - MRI: Researching and applying model in rectal cancer diagnosis and treatment support.
     
     - title: Machine Learning Research Assistant
-      institution: Data Science Laboratory, BKAI, Vietnam
-      year: Jan. 2022 - Present
+      institution: Data Science Laboratory, HUST, Vietnam
+      year: Jan. 2022 - Sep. 2023
       description:
-        - Researched adaptive dropout for sequential task-based data learning.
-
-    - title: Founder 
-      institution: Humans of HUST 
-      year: Jan. 2021 - Present
+        - Continual Learning: Researched adaptive dropout for sequential task-based data learning.
 
     - title: Computer Vision Researcher
       institution: Viettel High Tech, Hanoi, Vietnam
