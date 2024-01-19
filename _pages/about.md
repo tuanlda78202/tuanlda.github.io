@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: organiser href='https://gdg.community.dev/gdg-ha-noi/'>@gdghanoi</a> | ex viettel, vinbrain
+subtitle: Organiser href='https://gdg.community.dev/gdg-ha-noi/'>GDG Hanoi</a> | ex Viettel, VinBrain
 
 profile:
   align: right
