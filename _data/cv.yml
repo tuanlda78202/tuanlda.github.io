@@ -14,8 +14,6 @@
     - title: BSc. in Data Science and Artificial Intelligence
       institution: Hanoi University of Science and Technology, Hanoi, Vietnam
       year: Oct. 2020 - Aug. 2024
-      description:
-        - GPA: 3.83/4.0
 
 - title: Experience
   type: time_table
@@ -46,7 +44,7 @@
       institution: Viettel High Tech, Hanoi, Vietnam
       year: Mar. 2023 - Aug. 2023
       description:
-        - Researched INRs for videos, resolved temporal information problem in previous NeRV-based methods, achieved SOTA results, and pass R1 AAAI 2024 conference for video reconstruction and compression tasks.
+        - Researched INRs for videos, resolved temporal information problem in previous NeRV-based methods, achieved SOTA results for video reconstruction and compression tasks
 
     - title: Head of Event&PR Team
       institution: Google Developer Students Club, HUST, Vietnam
@@ -82,7 +80,7 @@
 - title: Skills
   type: list
   contents:
-    - <u> Research Topics:</u> Video Compression, Stable Diffusion, Continual Object Detection
+    - <b> Research Topics:</b> Video Compression, Stable Diffusion, Continual Object Detection
     - <u> Programming Language:</u> Python, SQL, Java, C++, CUDA, Triton
     - <u> Framework:</u> PyTorch, TensorFlow, Hugging Face, ONXX, FastAPI, Flutter
     - <u> MLOps:</u> GitHub, WandB, Docker, Kubernetes, MLflow, Airflow, Databricks
