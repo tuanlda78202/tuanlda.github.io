@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 7th August 2002
     - name: Languages
-      value: English (C1), Vietnamese
+      value: English, Vietnamese
 
 - title: Education
   type: time_table
@@ -34,7 +34,7 @@
       description:
         - Developed MedNeXt for rectal cancer diagnosis and treatment support.
 
-    - title: Machine Learning Research Assistant
+    - title: Research Assistant
       institution: Data Science Laboratory, HUST, Vietnam
       year: Jan. 2022 - Sep. 2023
       description:
@@ -44,9 +44,9 @@
       institution: Viettel High Tech, Hanoi, Vietnam
       year: Mar. 2023 - Aug. 2023
       description:
-        - Researched INRs for videos, resolved temporal information problem in previous NeRV-based methods, achieved SOTA results for video reconstruction and compression tasks
+        - Researched INRs for videos, resolved temporal information problem in previous NeRV-based methods, achieved SOTA results for video reconstruction and compression tasks.
 
-    - title: Head of Event&PR Team
+    - title: Head of Event & PR Team
       institution: Google Developer Students Club, HUST, Vietnam
       year: Sep. 2022 - Sep. 2023
 
@@ -81,9 +81,9 @@
   type: list
   contents:
     - <b> Research Topics:</b> Video Compression, Stable Diffusion, Continual Object Detection
-    - <u> Programming Language:</u> Python, SQL, Java, C++, CUDA, Triton
-    - <u> Framework:</u> PyTorch, TensorFlow, Hugging Face, ONXX, FastAPI, Flutter
-    - <u> MLOps:</u> GitHub, WandB, Docker, Kubernetes, MLflow, Airflow, Databricks
+    - <b> Programming Language:</b> Python, SQL, Java, C++, CUDA, Triton
+    - <b> Framework:</b> PyTorch, TensorFlow, Hugging Face, ONXX, FastAPI, Flutter
+    - <b> MLOps:</b> GitHub, WandB, Docker, Kubernetes, MLflow, Airflow, Databricks
 
 - title: Volunteering
   type: list
