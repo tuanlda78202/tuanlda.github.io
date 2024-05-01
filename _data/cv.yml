@@ -16,12 +16,13 @@
 - title: Experience
   type: time_table
   contents:
-      - title: Digital Talent
+    - title: Digital Talent
       institution: Viettel Group, Hanoi, Vietnam
       year: Apr. 2024 - Present
       description:
         - Top 0.01% of outstanding candidates participating in talent development program specializing in Big Data, CV, and LLMs for application to database of nearly 80 million customers
-    - title: Lead of Technical Team
+
+    - title: Organizer
       institution: Google Developer Groups, Hanoi, Vietnam
       year: Sep. 2022 - Present
       description:
