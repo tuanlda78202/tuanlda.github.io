@@ -26,7 +26,7 @@ highlight_theme_light: github # https://github.com/jwarby/jekyll-pygments-themes
 highlight_theme_dark: native # https://github.com/jwarby/jekyll-pygments-themes
 
 # repo color theme
-repo_theme_light: moltack # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: rose # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: noctis_minimus # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 
 # -----------------------------------------------------------------------------
