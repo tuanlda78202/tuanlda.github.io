@@ -30,6 +30,6 @@ Hi! I'm Charles 🤗 Senior DS-AI student at Hanoi University of Science and Tec
 * The opportunity to speak at Google DevFest 2022 was an honor for me, where the topic of my presentation was ["Detecting Cheating in Examinations"](https://www.facebook.com/GDGhanoi/photos/a.295913770557546/2473122272836674/).
   * DCE entails researching and deploying a real-time cheating detection solution for 100-person exam rooms; featured on [VTV24](https://www.facebook.com/tintucvtv24/videos/772744667380774), [HUST](https://hust.edu.vn/vi/news/tin-tuc-su-kien/phan-mem-chong-gian-lan-thi-cu-duoc-nhom-sinh-vien-thu-nghiem-thanh-cong-648900.html), [DanTri](https://dantri.com.vn/giao-duc/phan-mem-chong-gian-lan-thi-cu-duoc-nhom-sinh-vien-thu-nghiem-thanh-cong-20220906211003512.htm),...
 
-**Blog:** 
+**Personal Interests:** 
 
 * In my free time, I enjoy writing for my blog, ["Humans of HUST"](https://www.facebook.com/pageofhumanshust), where share insights and stories about my life, encompassing academics, research, and personal reflections.
