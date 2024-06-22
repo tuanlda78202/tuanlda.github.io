@@ -84,10 +84,10 @@
 - title: Skills
   type: list
   contents:
-    - <b> Research Topics:</b> Video Compression, Stable Diffusion, Continual Object Detection
+    - <b> Research Topics:</b> LLM, RecSys, Continual Object Detection, Video Compression.
     - <b> Programming Language:</b> Python, SQL, Java, C++, CUDA, Triton
-    - <b> Framework:</b> PyTorch, TensorFlow, Hugging Face, ONXX, FastAPI, Flutter
-    - <b> MLOps:</b> GitHub, WandB, Docker, Kubernetes, MLflow, Airflow, Databricks
+    - <b> Framework:</b> PyTorch, TensorFlow, Hugging Face Ecosystem, ONXX, FastAPI, Flutter
+    - <b> MLOps:</b> GitHub, WandB, Docker, Kubernetes, MLflow, Airflow, Databricks, Langchain
 
 - title: Volunteering
   type: list
