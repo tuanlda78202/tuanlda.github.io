@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Digital Talent @Viettel, Organizer <a href='https://gdg.community.dev/gdg-ha-noi/'>@GDGHanoi</a> | ex VinBrain
+subtitle: Digital Talent <a href='https://viettel.com.vn/en/'>@Viettel</a>, Organizer <a href='https://gdg.community.dev/gdg-ha-noi/'>@GDGHanoi</a> | ex VinBrain
 
 profile:
   align: right
@@ -18,9 +18,9 @@ social: true  # includes social icons at the bottom of the page
 Hi! I'm Charles 🤗 Senior DS-AI student at Hanoi University of Science and Technology.
 
 **Research:** 
-* Presently, I'm engaged in my graduation thesis, centering on applying class-specific prompts and VLM for task identification, while also integrating cross- and distill attention into the DETR decoder to facilitate class-incremental learning in object detection.
+* Presently, I'm engaged in my graduation thesis on Continual Object Detection. My research proposes a novel ["Efficient Continual Detection Transformer"](https://www.linkedin.com/feed/update/urn:li:activity:7209885129920368640/), utilizing pseudo-labeling, knowledge distillation, and LoRA adaptors. This approach achieves superior performance with only 3% of trainable parameters on the COCO dataset, addressing Catastrophic Forgetting and optimizing computational efficiency.  
   
-* My past work includes developing Implicit Neural Representations (INRs) for video tasks - reconstruction, compression, and in-painting - and medical image segmentation for MRI, specifically for rectal cancer diagnosis and treatment. Another research focuses on leveraging Conditional Diffusion Model to achieve ultra-low bitrate compression while maintaining optimal realism.
+* My past work includes developing Implicit Neural Representations for video tasks - reconstruction, compression, and in-painting - and medical image segmentation for MRI, specifically for rectal cancer diagnosis and treatment. Another research focuses on leveraging Conditional Diffusion Model to achieve ultra-low bitrate compression while maintaining optimal realism.
   * A key achievement is my state-of-the-art paper, 3DNeRV, which enhances video reconstruction and compression, now advancing to phase 2 in AAAI 2024. (🎉 Update: 28/09/2023)
 
 **Community:** 
