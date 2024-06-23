@@ -134,6 +134,10 @@
     {%- if sameaslinks != blank -%}
         {%- assign sameaslinks = sameaslinks | split: "" -%}
     {%- endif -%}
+    {%- if site.am_id -%}
+    {%- capture link -%}https://music.apple.com/profile/{{ site.am_id }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
 
     <script type="application/ld+json">
       {
