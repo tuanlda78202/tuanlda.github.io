@@ -11,7 +11,7 @@
   contents:
     - title: BSc. in Data Science and Artificial Intelligence
       institution: Hanoi University of Science and Technology, Hanoi, Vietnam
-      year: Oct. 2020 - Aug. 2024
+      year: Oct. 2020 - July. 2024
 
 - title: Experience
   type: time_table
@@ -26,8 +26,7 @@
       institution: Google Developer Groups, Hanoi, Vietnam
       year: Sep. 2022 - Present
       description:
-        - Planned and created project blueprints, delegated tasks to individuals, connected teams, and provided future operational guidance.
-
+        - Planned and created project blueprints, delegated tasks to individuals, connected teams, and provided future operational guidance, <a href="https://drive.google.com/file/d/1wRyXDH3vbakH1dkueh88lQVuRn85nwjU/view">certified</a> by Google US.
     - title: Founder
       institution: Humans of HUST, Vietnam
       year: Jan. 2021 - Present
@@ -71,7 +70,7 @@
 - title: Projects
   type: time_table
   contents:
-    - title: <a href="https://gdghanoi.com/google-io-extended-2023">Google I/O 2023 Website</a>
+    - title: <a href="https://github.com/tuanlda78202/google-io">Google I/O 2023 Website</a>
       year: 2023
       description:
         - Designed front-end client and admin websites, deployed hosting, and tracked event emails
@@ -79,12 +78,12 @@
     - title: Detect Cheating in Examination</a>
       year: 2022
       description:
-        - Researched and deployed real-time cheating detection solution using Pose3D and VideoMAE for 100-person exam rooms; featured on <a href="https://www.facebook.com/tintucvtv24/videos/772744667380774">VTV24</a>, <a href="https://dantri.com.vn/giao-duc/phan-mem-chong-gian-lan-thi-cu-duoc-nhom-sinh-vien-thu-nghiem-thanh-cong-20220906211003512.htm">DanTri</a>, <a href="https://hust.edu.vn/vi/news/tin-tuc-su-kien/phan-mem-chong-gian-lan-thi-cu-duoc-nhom-sinh-vien-thu-nghiem-thanh-cong-648900.html">HUST</a>,...
+        - Researched and deployed real-time cheating detection solution using Pose3D and VideoMAE for 100-person exam rooms; featured on <a href="https://www.facebook.com/tintucvtv24/videos/772744667380774">VTV24</a>, <a href="https://dantri.com.vn/giao-duc/phan-mem-chong-gian-lan-thi-cu-duoc-nhom-sinh-vien-thu-nghiem-thanh-cong-20220906211003512.htm">DanTri</a>, <a href="https://hust.edu.vn/vi/news/tin-tuc-su-kien/phan-mem-chong-gian-lan-thi-cu-duoc-nhom-sinh-vien-thu-nghiem-thanh-cong-648900.html">HUST</a>,etc.
 
 - title: Skills
   type: list
   contents:
-    - <b> Research Topics:</b> LLM, RecSys, Continual Object Detection, Video Compression.
+    - <b> Research Topics:</b> LLMs, RecSys, Continual Object Detection, Video Compression.
     - <b> Programming Language:</b> Python, SQL, Java, C++, CUDA, Triton
     - <b> Framework:</b> PyTorch, TensorFlow, Hugging Face Ecosystem, ONXX, FastAPI, Flutter
     - <b> MLOps:</b> GitHub, WandB, Docker, Kubernetes, MLflow, Airflow, Databricks, Langchain
