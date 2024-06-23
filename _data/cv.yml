@@ -78,12 +78,12 @@
     - title: Detect Cheating in Examination</a>
       year: 2022
       description:
-        - Researched and deployed real-time cheating detection solution using Pose3D and VideoMAE for 100-person exam rooms; featured on <a href="https://www.facebook.com/tintucvtv24/videos/772744667380774">VTV24</a>, <a href="https://dantri.com.vn/giao-duc/phan-mem-chong-gian-lan-thi-cu-duoc-nhom-sinh-vien-thu-nghiem-thanh-cong-20220906211003512.htm">DanTri</a>, <a href="https://hust.edu.vn/vi/news/tin-tuc-su-kien/phan-mem-chong-gian-lan-thi-cu-duoc-nhom-sinh-vien-thu-nghiem-thanh-cong-648900.html">HUST</a>,etc.
+        - Researched and deployed real-time cheating detection solution using Pose3D and VideoMAE for 100-person exam rooms; featured on <a href="https://www.facebook.com/tintucvtv24/videos/772744667380774">VTV24</a>, <a href="https://dantri.com.vn/giao-duc/phan-mem-chong-gian-lan-thi-cu-duoc-nhom-sinh-vien-thu-nghiem-thanh-cong-20220906211003512.htm">DanTri</a>, <a href="https://hust.edu.vn/vi/news/tin-tuc-su-kien/phan-mem-chong-gian-lan-thi-cu-duoc-nhom-sinh-vien-thu-nghiem-thanh-cong-648900.html">HUST</a>, etc.
 
 - title: Skills
   type: list
   contents:
-    - <b> Research Topics:</b> LLMs, RecSys, Continual Object Detection, Video Compression.
+    - <b> Research Topics:</b> LLMs, RecSys, Continual Object Detection, Video Compression
     - <b> Programming Language:</b> Python, SQL, Java, C++, CUDA, Triton
     - <b> Framework:</b> PyTorch, TensorFlow, Hugging Face Ecosystem, ONXX, FastAPI, Flutter
     - <b> MLOps:</b> GitHub, WandB, Docker, Kubernetes, MLflow, Airflow, Databricks, Langchain
