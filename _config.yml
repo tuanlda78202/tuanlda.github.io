@@ -3,8 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: Le Duc Anh Tuan # the website title (if blank, full name will be used instead)
-first_name: Le Duc Anh Tuan
-last_name:
+first_name: Tuan
+last_name: Le Duc Anh
 email: tuanlda78202@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My personal website.
