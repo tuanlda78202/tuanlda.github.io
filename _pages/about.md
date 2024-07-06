@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Digital Talent <a href='https://viettel.com.vn/en/'>@Viettel</a>, Organizer <a href='https://gdg.community.dev/gdg-ha-noi/'>@GDGHanoi</a> | ex VinBrain
+subtitle: Digital Talent <a href='https://viettel.com.vn/en/'>@Viettel</a>
 
 profile:
   align: right
