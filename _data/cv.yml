@@ -20,13 +20,13 @@
       institution: Viettel Telecom, Hanoi, Vietnam
       year: July. 2024 - Present
       description:
-        - Developed a real-time, end-to-end 'zero-touch' universal AI assistant with a multi-agent system, multimodal capabilities, intent understanding, and personalized responses, creating Vietnam's first multimodal Conversational Recommendation System.
+        - Developed a real-time, end-to-end "zero-touch" universal AI assistant with a multi-agent system, multimodal capabilities, intent understanding, and personalized responses, creating Vietnam's first multimodal Conversational Recommendation System
 
     - title: Digital Talent
       institution: Viettel Group, Hanoi, Vietnam
       year: Apr. 2024 - Present
       description:
-        - Developed Conversational AI with LLM-based recommendations for Viettel's Digital Ecosystem, enabling natural user interactions and service recommendations.
+        - Developed Conversational AI with LLM-based recommendations for Viettel's Digital Ecosystem, enabling natural user interactions and service recommendations
 
     - title: Founder
       institution: Humans of HUST, Vietnam
@@ -34,27 +34,27 @@
 
     - title: Organizer
       institution: Google Developer Groups, Hanoi, Vietnam
-      year: Sep. 2022 - July. 2024
+      year: Sep. 2022 - Aug. 2024
       description:
-        - Planned and created project blueprints, delegated tasks to individuals, connected teams, and provided future operational guidance, <a href="https://drive.google.com/file/d/1wRyXDH3vbakH1dkueh88lQVuRn85nwjU/view">certified</a> by Google US.
+        - Planned and created project blueprints, delegated tasks to individuals, connected teams, and provided future operational guidance, <a href="https://drive.google.com/file/d/1wRyXDH3vbakH1dkueh88lQVuRn85nwjU/view">certified</a> by Google US
 
     - title: Applied Scientist
       institution: VinBrain, Hanoi, Vietnam
       year: Sep. 2023 - Dec. 2023
       description:
-        - Developed MedNeXt for rectal cancer diagnosis and treatment support.
+        - Developed MedNeXt for rectal cancer diagnosis and treatment support
 
     - title: Research Assistant
       institution: Data Science Laboratory, HUST, Vietnam
       year: Jan. 2022 - Sep. 2023
       description:
-        - Researched class-specific prompt rehearsal-free in continual object detection.
+        - Researched class-specific prompt rehearsal-free in continual object detection
 
     - title: Computer Vision Researcher
       institution: Viettel High Tech, Hanoi, Vietnam
       year: Mar. 2023 - Aug. 2023
       description:
-        - Researched INRs for videos, resolved temporal information problem in previous NeRV-based methods, achieved SOTA results for video reconstruction and compression tasks.
+        - Researched INRs for videos, resolved temporal information problem in previous NeRV-based methods, achieved SOTA results for video reconstruction and compression tasks
 
     - title: Head of Event & PR Team
       institution: Google Developer Students Club, HUST, Vietnam
@@ -64,15 +64,15 @@
       institution: IWannaTech, Hanoi, Vietnam
       year: Jun. 2022 - Mar. 2023
       description:
-        - Deployed real-time facial recognition for attendance tracking using YOLOv5 Tiny and FaceNet architectures in a 1000-employee company.
-        - Researched and deployed edge SOD for recognizing Korean and English fonts on name cards, leveraging U2Net and DIS architectures.
-        - Implemented gesture recognition model for anime dance modeling using VideoPose3D.
+        - Deployed real-time facial recognition for attendance tracking using YOLOv5 Tiny and FaceNet architectures in a 1000-employee company
+        - Researched and deployed edge SOD for recognizing Korean and English fonts on name cards, leveraging U2Net and DIS architectures
+        - Implemented gesture recognition model for anime dance modeling using VideoPose3D
 
     - title: <a href="https://drive.google.com/file/d/1KCzH6j3W12mHHMrYA_0QIHZYRVflnRTA/view">Machine Learning Researcher</a>
       institution: LEAN Platform, Southeast Asia
       year: Aug. 2022 - Jan. 2023
       description:
-        - Developed real-time Conv3D model for concentration recognition in online self-learning platform with 10000 users.
+        - Developed real-time Conv3D model for concentration recognition in online self-learning platform with 10000 users
 
 - title: <a href="https://github.com/tuanlda78202/">Projects</a>
   type: time_table
@@ -80,7 +80,7 @@
     - title: <a href="https://github.com/tuanlda78202/geminio">Bong</a>
       year: 2024
       description:
-        - Developed a real-time web application showcased at Google I/O Extended Hanoi 2024, featuring speech-to-speech, multimodal integration for Vietnamese, and RAG for live updates
+        - Developed a real-time VLM web application showcased at Google I/O Extended Hanoi 2024, featuring speech-to-speech, multimodal integration for Vietnamese, and RAG for live updates
 
     - title: <a href="https://github.com/tuanlda78202/google-io">Google I/O Extended Hanoi Website</a>
       year: 2023
@@ -90,7 +90,7 @@
     - title: Detect Cheating in Examination</a>
       year: 2022
       description:
-        - Researched and deployed real-time cheating detection solution using Pose3D and VideoMAE for 100-person exam rooms; featured on <a href="https://www.facebook.com/tintucvtv24/videos/772744667380774">VTV24</a>, <a href="https://dantri.com.vn/giao-duc/phan-mem-chong-gian-lan-thi-cu-duoc-nhom-sinh-vien-thu-nghiem-thanh-cong-20220906211003512.htm">DanTri</a>, <a href="https://hust.edu.vn/vi/news/tin-tuc-su-kien/phan-mem-chong-gian-lan-thi-cu-duoc-nhom-sinh-vien-thu-nghiem-thanh-cong-648900.html">HUST</a>, etc.
+        - Researched and deployed real-time cheating detection solution using Pose3D and VideoMAE for 100-person exam rooms; featured on <a href="https://www.facebook.com/tintucvtv24/videos/772744667380774">VTV24</a>, <a href="https://dantri.com.vn/giao-duc/phan-mem-chong-gian-lan-thi-cu-duoc-nhom-sinh-vien-thu-nghiem-thanh-cong-20220906211003512.htm">DanTri</a>, <a href="https://hust.edu.vn/vi/news/tin-tuc-su-kien/phan-mem-chong-gian-lan-thi-cu-duoc-nhom-sinh-vien-thu-nghiem-thanh-cong-648900.html">HUST</a>, etc
 
 - title: Skills
   type: list
