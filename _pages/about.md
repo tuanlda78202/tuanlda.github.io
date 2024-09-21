@@ -7,7 +7,7 @@ subtitle: Data Scientist <a href='https://www.linkedin.com/company/viettel-telec
 profile:
   align: right
   image: charles.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
    
 
@@ -25,7 +25,7 @@ Hi! I'm Charles 🤗 Interested in LLMs, multi-agent systems, and LLMOps.
 
 **Community:** 
 
-* Passionate commitment to sharing knowledge and organizing events in the research and developer community is evident. This dedication has resulted in the successful coordination of several key events, such as Google I/O Extended Hanoi 2022, AI Day 2022, DevFest Hanoi 2022, IWD x FFE Hanoi 2023, Google I/O Extended Hanoi 2023, Google DevFest Hanoi 2023, Google Build with AI 2024 and Google I/O Extended Hanoi 2024.
+* Passionate commitment to sharing knowledge and organizing events in the research and developer community is evident. This dedication has resulted in the successful coordination of several key events, such as AI Day 2022, Google I/O Extended Hanoi 2022/2023/2024, Google DevFest Hanoi 2022/2023, IWD x FFE Hanoi 2023, Google Build with AI 2024.
   
 * The opportunity to speak at Google DevFest 2022 was an honor for me, where the topic of my presentation was ["Detecting Cheating in Examinations"](https://www.facebook.com/GDGhanoi/photos/a.295913770557546/2473122272836674/).
   * DCE entails researching and deploying a real-time cheating detection solution for 100-person exam rooms; featured on [VTV24](https://www.facebook.com/tintucvtv24/videos/772744667380774), [HUST](https://hust.edu.vn/vi/news/tin-tuc-su-kien/phan-mem-chong-gian-lan-thi-cu-duoc-nhom-sinh-vien-thu-nghiem-thanh-cong-648900.html), [DanTri](https://dantri.com.vn/giao-duc/phan-mem-chong-gian-lan-thi-cu-duoc-nhom-sinh-vien-thu-nghiem-thanh-cong-20220906211003512.htm),...
