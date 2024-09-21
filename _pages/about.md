@@ -16,6 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 Hi! I'm Charles 🤗 Senior DS-AI student at Hanoi University of Science and Technology.
+
 **Industry:** 
 * Developed my own multimodal Conversational Recommendation System, which is Vietnam's first real-time, end-to-end universal assistant featuring a multi-agent system and multimodal capabilities. This "zero-touch" AI assistant supports multimodal input/output, understands user intent—both expertise-based and causal—and delivers personalized responses, successfully deployed for user interactions.
   
