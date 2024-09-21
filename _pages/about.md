@@ -15,7 +15,7 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi! I'm Charles 🤗 Former senior DS-AI student at Hanoi University of Science and Technology.
+Hi! I'm Charles 🤗 I'm interested in Multimodal LLMs, multi-agent systems, and LLMOps.
 
 **Industry:** 
 * Developed my own multimodal Conversational Recommendation System, which is Vietnam's first real-time, end-to-end universal CRS assistant featuring a multi-agent system and multimodal capabilities. This "zero-touch" AI assistant supports multimodal input/output, understands user intent—both expertise-based and causal—and delivers personalized responses, successfully deployed for user interactions.
