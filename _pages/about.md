@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 Hi! I'm Charles 🤗 Senior DS-AI student at Hanoi University of Science and Technology.
 
 **Industry:** 
-* Developed my own multimodal Conversational Recommendation System, which is Vietnam's first real-time, end-to-end universal assistant featuring a multi-agent system and multimodal capabilities. This "zero-touch" AI assistant supports multimodal input/output, understands user intent—both expertise-based and causal—and delivers personalized responses, successfully deployed for user interactions.
+* Developed my own multimodal Conversational Recommendation System, which is Vietnam's first real-time, end-to-end universal CRS assistant featuring a multi-agent system and multimodal capabilities. This "zero-touch" AI assistant supports multimodal input/output, understands user intent—both expertise-based and causal—and delivers personalized responses, successfully deployed for user interactions.
   
 **Research:** 
 * My graduation thesis focused on Continual Object Detection, presenting an ["Efficient Continual Detection Transformer"](https://www.linkedin.com/feed/update/urn:li:activity:7209885129920368640/) that utilizes pseudo-labeling, knowledge distillation, and LoRA to achieve superior performance with only 3% of trainable parameters on the COCO dataset, effectively addressing Catastrophic Forgetting and optimizing computational efficiency. My past work includes developing Implicit Neural Representations for video tasks - reconstruction, compression, and in-painting; Medical Image Segmentation for MRI, specifically for rectal cancer diagnosis and treatment.
