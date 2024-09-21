@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Digital Talent <a href='https://viettel.com.vn/en/'>@Viettel</a>
+subtitle: Data Scientist <a href='https://www.linkedin.com/company/viettel-telecom-careers/'>@Viettel Telecom</a>
 
 profile:
   align: right

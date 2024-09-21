@@ -11,16 +11,22 @@
   contents:
     - title: BSc. in Data Science and Artificial Intelligence
       institution: Hanoi University of Science and Technology, Hanoi, Vietnam
-      year: Oct. 2020 - July. 2024
+      year: Oct. 2020 - Sep. 2024
 
 - title: Experience
   type: time_table
   contents:
+    - title: Data Scientist
+      institution: Viettel Telecom, Hanoi, Vietnam
+      year: July. 2024 - Present
+      description:
+        - Developed a real-time, end-to-end 'zero-touch' universal AI assistant with a multi-agent system, multimodal capabilities, intent understanding, and personalized responses, creating Vietnam's first multimodal Conversational Recommendation System.
+
     - title: Digital Talent
       institution: Viettel Group, Hanoi, Vietnam
       year: Apr. 2024 - Present
       description:
-        - Developed Conversational AI with LLM-based recommendations for Viettel's Digital Ecosystem (TV360, MyViettel, MyDio), enabling natural user interactions and service recommendations.
+        - Developed Conversational AI with LLM-based recommendations for Viettel's Digital Ecosystem, enabling natural user interactions and service recommendations.
 
     - title: Founder
       institution: Humans of HUST, Vietnam
@@ -68,10 +74,15 @@
       description:
         - Developed real-time Conv3D model for concentration recognition in online self-learning platform with 10000 users.
 
-- title: Projects
+- title: <a href="https://github.com/tuanlda78202/">Projects</a>
   type: time_table
   contents:
-    - title: <a href="https://github.com/tuanlda78202/google-io">Google I/O 2023 Website</a>
+    - title: <a href="https://github.com/tuanlda78202/geminio">Bong</a>
+      year: 2024
+      description:
+        - Developed a real-time web application showcased at Google I/O Extended Hanoi 2024, featuring speech-to-speech, multimodal integration for Vietnamese, and RAG for live updates
+
+    - title: <a href="https://github.com/tuanlda78202/google-io">Google I/O Extended Hanoi Website</a>
       year: 2023
       description:
         - Designed front-end client and admin websites, deployed hosting, and tracked event emails
@@ -84,10 +95,10 @@
 - title: Skills
   type: list
   contents:
-    - <b> Research Topics:</b> LLMs, RecSys, Continual Object Detection, Video Compression
-    - <b> Programming Language:</b> Python, SQL, Java, C++, CUDA, Triton
-    - <b> Framework:</b> PyTorch, TensorFlow, Hugging Face Ecosystem, ONXX, FastAPI, Flutter
-    - <b> MLOps:</b> GitHub, WandB, Docker, Kubernetes, MLflow, Airflow, Databricks, Langchain
+    - <b> Research Topics:</b> Multimodal LLMs, Multi-agent System
+    - <b> Programming Language:</b> Python, SQL, Java, C++, CUDA, TypeScripts, Javascripts, Triton
+    - <b> Framework:</b> PyTorch, TensorFlow, Hugging Face, ONXX
+    - <b> MLOps:</b> GitHub, WandB, Docker, Kubernetes, MLflow, Airflow, Langchain, LangGraph, Weaviate, FastAPI
 
 - title: Volunteering
   type: list
