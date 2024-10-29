@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Data Scientist <a href='https://www.linkedin.com/company/viettel-telecom-careers/'>@Viettel</a> | Writer <a href='https://www.facebook.com/pageofhumanshust'>@HoH</a>
+subtitle: LLM Researcher <a href='https://homebrew.ltd/'>@Homebrew</a> | Writer <a href='https://www.facebook.com/pageofhumanshust'>@HoH</a>
 
 profile:
   align: right
@@ -15,7 +15,7 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi! I'm Charles 🤗 Interested in LLMs, multi-agent systems, and LLMOps.
+Hi! I'm Charles 🤗 Interested in Multimodal LLMs, multi-agent systems, and LLMOps.
 
 **Industry:** 
 * Developed my own multimodal Conversational Recommendation System, which is Vietnam's first real-time, end-to-end universal CRS assistant featuring a multi-agent system and multimodal capabilities. This "zero-touch" AI assistant supports multimodal input/output, understands user intent—both expertise-based and causal—and delivers personalized responses, successfully deployed for user interactions.
