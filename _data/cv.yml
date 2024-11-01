@@ -62,14 +62,6 @@
       institution: Google Developer Students Club, HUST, Vietnam
       year: Sep. 2022 - Sep. 2023
 
-    - title: Computer Vision Engineer
-      institution: IWannaTech, Hanoi, Vietnam
-      year: Jun. 2022 - Mar. 2023
-      description:
-        - Deployed real-time facial recognition for attendance tracking using YOLOv5 Tiny and FaceNet architectures in a 1000-employee company
-        - Researched and deployed edge SOD for recognizing Korean and English fonts on name cards, leveraging U2Net and DIS architectures
-        - Implemented gesture recognition model for anime dance modeling using VideoPose3D
-
     - title: <a href="https://drive.google.com/file/d/1KCzH6j3W12mHHMrYA_0QIHZYRVflnRTA/view">Machine Learning Researcher</a>
       institution: LEAN Platform, Southeast Asia
       year: Aug. 2022 - Jan. 2023
