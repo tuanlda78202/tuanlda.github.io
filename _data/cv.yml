@@ -20,7 +20,7 @@
       institution: Homebrew Research, Singapore, Singapore
       year: Nov. 2024 - Present
       description:
-        - Trained Ichigo Quantizer to support multiple Asian languages, achieving SOTA results and outperforming PhoWhisper and Whisper in low-resource languages
+        - Trained <a href="https://github.com/janhq/WhisperSpeech.git">Ichigo Quantizer</a> to support multiple Asian languages, achieving SOTA results and outperforming PhoWhisper and Whisper in low-resource languages
 
     - title: Digital Talent
       institution: Viettel Group, Hanoi, Vietnam
