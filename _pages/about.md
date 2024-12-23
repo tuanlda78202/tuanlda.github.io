@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: LLM Researcher <a href='https://homebrew.ltd/'>@Homebrew</a> | Writer <a href='https://www.facebook.com/pageofhumanshust'>@HoH</a>
+subtitle: LLM Researcher <a href='https://homebrew.ltd/'>@Homebrew Research</a> | Writer <a href='https://www.facebook.com/pageofhumanshust'>@HoH</a>
 
 profile:
   align: right
